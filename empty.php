@@ -1,0 +1,1 @@
+<div class="alert alert-info alert-dismissible fade show"><button type="button" class="close" data-dismiss="alert">&times;</button><h2>Maaf halaman yang anda pilih tidak tersedia !!!</h2></div>

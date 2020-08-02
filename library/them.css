@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+
+.bol {
+	border-top-color: #03F;
+	border-right-color: #03F;
+	border-bottom-color: #03F;
+	border-left-color: #03F;
+}
+.fon {
+	font-family: "Trebuchet MS", sans-serif;
+	font-size: 12px;
+	color: #000;
+}

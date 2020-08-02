@@ -1,0 +1,9 @@
+@charset "utf-8";
+/* CSS Document */
+@font-face
+{
+font-family: codeqr;
+src: url("Alphanumericqr-E5zz.ttf") format('truetype');
+font-weight: normal;
+font-style: normal;
+}
